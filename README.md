@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Actualmente estoy estudiando Ingeniería Informática<br>🤝 Estoy buscando ayuda con Python ya que estoy empezando<br>🌱 Estoy aprendiendo Java, JavaScript, Python y Node.js<br>⚡ Fun fact
+🔭 Actualmente estoy estudiando Ingeniería Informática<br>🤝 Estoy buscando ayuda con Python ya que estoy empezando<br>🌱 Estoy aprendiendo Java, HTML, CSS, JavaScript, SQL y Python
 
 
 ## 🌐 Socials:
